@@ -19,5 +19,7 @@
 "R10","1","1k","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
 "R11","1","2.2k","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
 "R14","1","RV09AF-40-20K-A10K","","","","RV09AF-40-20K-A10K:TRIM_RV09AF-40-20K-A10K",""
+"R15","1","220","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
 "SW1","1","SW_DIP_x01","","","","Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm","~"
-"U1","1","Opamp_Dual","","","","Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias","~"
+"TP1,TP2,TP3,TP4","4","TestPoint","","","","TestPoint:TestPoint_Bridge_Pitch2.0mm_Drill0.7mm","~"
+"U1","1","Opamp_Dual","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","~"

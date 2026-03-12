@@ -1,4 +1,4 @@
-26772981267394771
+26774754569481327
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70573,6 +70573,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LIB_450302014072
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias_Edit
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+20
+9
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
